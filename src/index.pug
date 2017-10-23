@@ -1,0 +1,26 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='utf-8')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    script(src='vendor/headjs/dist/1.0.0/head.js')
+    script(src='vendor/reveal.js/js/reveal.js')
+    script(src='slideshow.js')
+    link(rel='icon' type='image/png' href='favicon-32x32.png' sizes='32x32')
+    link(rel='icon' type='image/png' href='favicon-16x16.png' sizes='16x16')
+    link(rel='stylesheet' href='vendor/reveal.js/css/reveal.css')
+    link(rel='stylesheet' href='vendor/reveal.js/css/theme/black.css')
+    link(rel='stylesheet' href='vendor/highlightjs/styles/monokai-sublime.css')
+    link(rel='stylesheet' href='slideshow.css')
+    title= package.description
+  body
+    .reveal
+      .slides
+        each slide in slides
+          section(
+            data-markdown=slide
+            data-separator='^Horizontal:'
+            data-separator-vertical='^Vertical:'
+            data-separator-notes='^Notes:'
+            data-charset='utf-8'
+          )

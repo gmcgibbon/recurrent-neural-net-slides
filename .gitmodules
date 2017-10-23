@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = git@github.com:gmcgibbon/recurrent-neural-net-slides.git
+	branch = gh-pages
