@@ -9,6 +9,7 @@
 Vertical:
 
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- https://en.wikipedia.org/wiki/Vanishing_gradient_problem
 - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 - https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0
 - https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101

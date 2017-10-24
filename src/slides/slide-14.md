@@ -9,3 +9,9 @@ Vertical:
 ## Taking a closer look
 
 ![LSTM vs GRU Diagram](https://deeplearning4j.org/img/lstm_gru.png)
+
+Vertical:
+
+## LSTM/GRU vs RNN Volatility
+
+![LSTM vs RNN Diagram](https://i.imgur.com/vaNahKE.gif)
