@@ -10,6 +10,6 @@ Vertical:
 
 Vertical:
 
-## A drop in replacement for LSTMs and Simple RNN cells
+## A drop in replacement for LSTM and Simple RNN cells
 
 ![GRU LSTM Diagram](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/10/gru-lstm.png)

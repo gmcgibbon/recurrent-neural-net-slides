@@ -12,6 +12,6 @@ Vertical:
 
 Vertical:
 
-## LSTM/GRU vs RNN
+## LSTM/GRU vs RNN Volatility
 
 ![LSTM vs RNN Diagram](https://i.imgur.com/vaNahKE.gif)
