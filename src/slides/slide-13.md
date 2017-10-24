@@ -7,3 +7,9 @@ Vertical:
 ## What does an GRU cell look like?
 
 ![GRU Diagram](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/10/Screen-Shot-2015-10-23-at-10.36.51-AM.png)
+
+Vertical:
+
+## A drop in replacement for LSTMs and Simple RNN cells
+
+![GRU LSTM Diagram](http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/10/gru-lstm.png)
