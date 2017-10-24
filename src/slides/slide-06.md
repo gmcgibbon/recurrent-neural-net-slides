@@ -16,6 +16,6 @@ Vertical:
 
 Vertical:
 
-## An RNN in action
+## An RNN in Action
 
 ![RNN Action Diagram](https://cdn-images-1.medium.com/max/1600/1*YkxweTzgt4axMnaTH0nHHg.gif)
